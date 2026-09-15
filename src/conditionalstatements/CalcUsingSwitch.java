@@ -12,7 +12,6 @@ public class CalcUsingSwitch {
 
         System.out.print("Enter B = ");
         float b = sc.nextFloat();
-
         switch(operator){
             case '+' :
                 System.out.println(a+b);
